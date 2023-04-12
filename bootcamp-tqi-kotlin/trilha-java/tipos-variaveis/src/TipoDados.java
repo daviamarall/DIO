@@ -6,6 +6,7 @@ public class TipoDados {
 		long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo
 		float pi = 3.14F;
 		double salario = 1275.33;
+		String meuNome = "Davi";
 
         System.out.println("Exemplo byte: " + idade);
         System.out.println("Exemplo short: " + ano);
@@ -13,6 +14,7 @@ public class TipoDados {
         System.out.println("Exemplo long: " + cpf);
         System.out.println("Exemplo float: " +  pi);
         System.out.println("Exemplo double: " + salario);
+		System.out.println("Meu nome: " + meuNome);
 
 	}
 }
