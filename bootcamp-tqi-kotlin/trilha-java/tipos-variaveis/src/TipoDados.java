@@ -7,6 +7,8 @@ public class TipoDados {
 		float pi = 3.14F;
 		double salario = 1275.33;
 		String meuNome = "Davi";
+		Boolean tipo = false;
+		Boolean Cor = true;
 
         System.out.println("Exemplo byte: " + idade);
         System.out.println("Exemplo short: " + ano);
@@ -15,6 +17,8 @@ public class TipoDados {
         System.out.println("Exemplo float: " +  pi);
         System.out.println("Exemplo double: " + salario);
 		System.out.println("Meu nome: " + meuNome);
+		System.out.println("Exemplo Boolean: " + tipo + " " + Cor);
+
 
 	}
 }
