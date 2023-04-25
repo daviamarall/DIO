@@ -1,13 +1,7 @@
 import java.time.LocalDate;
 
-import javax.sound.midi.Soundbank;
-import javax.swing.plaf.synth.SynthIcon;
-
 public class Operadores {
 
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
 
         // Atribuição
@@ -69,9 +63,8 @@ public class Operadores {
 
         System.out.println("Inverteu " + !verdadeiro);
 
-
         // Ternario
-    
+
         int a, b;
 
         a = 5;
@@ -90,7 +83,6 @@ public class Operadores {
 
         System.out.println("Resultado: " + resultado1);
 
-        
     }
 
 }
