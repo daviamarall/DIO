@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Ex3_MaiorEMedia {
 
 /*
- Faça um programa que leia 5 números 
- e informe o maior número 
- e a média desses números  
+ * Faça um programa que leia 5 números 
+ * e informe o maior número 
+ * e a média desses números  
 */
 
    
