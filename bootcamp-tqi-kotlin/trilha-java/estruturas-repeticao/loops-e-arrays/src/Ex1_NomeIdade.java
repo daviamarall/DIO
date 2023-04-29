@@ -9,10 +9,10 @@ public class Ex1_NomeIdade {
         String nome;
         int idade;
 
-        System.out.println("Digite '0' para sair do programa");
-        System.out.println(" ");
-
         while (true) {
+
+            System.out.println("Digite '0' para sair do programa");
+            System.out.println(" ");
 
             System.out.println("Nome: ");
             nome = scan.next();
@@ -22,8 +22,14 @@ public class Ex1_NomeIdade {
             System.out.println("Idade: ");
             idade = scan.nextInt();
 
+            System.out.println("Nome: " + nome);
+            System.out.println("Idade: " + idade);
+            System.out.println("--------------------------");
+
         }
 
-    }
+        System.out.println("Programa encerrado.");
 
+        scan.close();
+    }
 }
