@@ -52,6 +52,7 @@ public class Mensagem {
 
     public static void mensagemBoanoite() {
         System.out.println("Boa noite");
+
     }
 
 }
