@@ -24,5 +24,16 @@ public class Main {
         Emprestimo.calcular(10000, 2);
         Emprestimo.calcular(50000, 3);
         Emprestimo.calcular(15000, 5);
+
+        System.out.println();
+
+        // Quadrilátero
+        System.out.println("Exercício quadrilátero");
+        Quadrilatero.area(3);
+        Quadrilatero.area(5d,5d);
+        Quadrilatero.area(7,8,9);
+        Quadrilatero.area(5f,5f);
+
+
     }
 }
