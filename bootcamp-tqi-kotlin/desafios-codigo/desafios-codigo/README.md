@@ -1,18 +1,28 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Desafios de Código Java - Bootcamp TQI Kotlin
 
-## Folder Structure
+Este repositório contém a solução para os desafios de código Java do Bootcamp TQI Kotlin.
 
-The workspace contains two folders by default, where:
+## Desafios Realizados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- [x] Desafio 1: Compras Livraria
+- [x] Desafio 2: Idade Planetaria
+- [x] Desafio 3: Loja Geek
+- [x] Desafio 4: Mudança para Irlanda
+- [x] Desadio 5: Traffic Ligth
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Como executar 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Cada desafio tem sua própria solução Java. Para executar a solução de um desafio, basta abrir o arquivo `.java` correspondente em uma IDE Java, como o Eclipse ou o IntelliJ, e executá-lo.
 
-## Dependency Management
+## Como contribuir
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Sinta-se à vontade para enviar pull requests com melhorias para as soluções existentes ou novas soluções para os desafios que ainda não foram concluídos.
+
+## Autor
+
+- Seu nome aqui
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
