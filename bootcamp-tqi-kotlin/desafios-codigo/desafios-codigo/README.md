@@ -19,10 +19,3 @@ Cada desafio tem sua própria solução Java. Para executar a solução de um de
 
 Sinta-se à vontade para enviar pull requests com melhorias para as soluções existentes ou novas soluções para os desafios que ainda não foram concluídos.
 
-## Autor
-
-- Seu nome aqui
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
