@@ -11,7 +11,9 @@ e em que mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2 – F
 public class ExercicioProposto01 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        scan.close();
         List<Double> temperaturas = new ArrayList<Double>();
+        
 
         //Adicionando as temperaturas na lista:
         int count = 0;
@@ -70,10 +72,13 @@ public class ExercicioProposto01 {
                         System.out.printf("6 - junho: %.1f\n", temp);
                         break;
                     default:
-                        System.out.println("Não houve temperatura acima da média.");
+                    
+
                 }
+
+                
             }
-            count++;
+          
         }
     }
 }
