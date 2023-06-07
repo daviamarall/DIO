@@ -1,4 +1,4 @@
-package pradroes.java;
+package padroes.java;
 
 public class SingletonLazy {
     private static SingletonLazy instance;

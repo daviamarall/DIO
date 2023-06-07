@@ -1,4 +1,4 @@
-package pradroes.java;
+package padroes.java;
 
 public class SingletonLazyHolder {
         private SingletonLazyHolder() {
