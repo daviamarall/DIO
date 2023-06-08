@@ -1,4 +1,4 @@
-package padroes.java;
+package singleton;
 
     public class SingletonEager {
 
