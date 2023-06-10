@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/collections/collections.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/desafio-projeto-kotlin/desafio-projeto-kotlin.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/desafio-projeto-kotlin/desafio-projeto-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/desafio-projeto-poo/desafio-projeto-poo.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/desafio-projeto-poo/desafio-projeto-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/desafios-codigo/desafios-codigo/desafios-codigo.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/desafios-codigo/desafios-codigo/desafios-codigo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/desafios-kotlin/desafios-kotlin.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/desafios-kotlin/desafios-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio.iml" filepath="$PROJECT_DIR$/.idea/dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/estruturas-repeticao/estruturas-repeticao.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/estruturas-repeticao/estruturas-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/desafios-codigo/sistema-tv/sistema-tv.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/desafios-codigo/sistema-tv/sistema-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/bootcamp-tqi-kotlin/trilha-java/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
